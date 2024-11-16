@@ -54,7 +54,7 @@ The dashboard provides the following actionable insights:
 ---
 
 ## File Details
-- **`Earthquake_Analysis_Dashboard.pbix`**: The Power BI dashboard file containing all visuals and insights.
+- **`Earthquake_analysis.pbix`**: The Power BI dashboard file containing all visuals and insights.
 - **Data Source**: Earthquake dataset covering event details such as magnitude, date, location, deaths, and financial impact.
 
 ---
